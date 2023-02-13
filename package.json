@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lauArciniega2797/dev-challenges#readme",
   "dependencies": {
+    "@vue/cli-service": "^5.0.8",
     "vue": "^3.2.47"
   }
 }
